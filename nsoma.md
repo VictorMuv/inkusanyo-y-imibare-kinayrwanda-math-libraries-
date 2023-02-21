@@ -1,5 +1,5 @@
 # Inkusanyo y'imibare mu Kinyarwanda
-## uko umushinga uteye
+## Uko umushinga uteye
 Ikinyarwanda n'ururimi dushobora gukoresha mu ikoranabuhanga. 
 Hari ibigenda bikorwa mu rwego rw'ikoranbuhanga rishamikiye ryo mubushorishori (application) ariko uyu mushinga ni uburyo bwo guhera mu mizi.
 Turahera ahoroshye tugenda twiga gukora inkoranya (library) y'imibare yoroshye dukoresha ururimi rusanzweho ruremye mu cyongereza (python).
