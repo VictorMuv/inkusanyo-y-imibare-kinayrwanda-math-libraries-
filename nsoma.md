@@ -6,4 +6,5 @@ Turahera ahoroshye tugenda twiga gukora inkoranya (library) y'imibare yoroshye d
 Umushinga nshaka gukora ariko ntuzagarukira aha.
 Nyuma yo kumva nea ibigendanye nuko utegeka mudasobwa gukora ibyo ushaka (programming).Nzakomeza kwiga ururimi kavukire rwa mudasobwa ari rwo "amashanyarazi" (machine language)aho bihindurwa rimwe(1) na zero(0).
 ## Ahazaza h'umushinga
-kubasha kwigisha mudasobwa guhindura ururimi kavukire ruvuga mu kinyarwanda bitabaye ngombwa kubanza kunyura mu zindi ndimi.
+Kubasha kwigisha mudasobwa guhindura ururimi kavukire rwarwo mu kinyarwanda bitabaye ngombwa kubanza kunyura mu zindi ndimi.
+Kubaka ururimi rwisumbuye rwa mudasobwa (high level language) rushingiye ku muga, amagambo n'inshinga z'Ikinyarwanda.
